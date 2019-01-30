@@ -13,6 +13,6 @@ $ npm run grunt
 Start:
 
 $ npm run dev
---$ npm start
+($ npm start)
 
 
